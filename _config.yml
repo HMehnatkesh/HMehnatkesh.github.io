@@ -13,39 +13,38 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/New_York
+timezone: America/Edmonton
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title:  Hossein’s Tech Notes # the main title
+title:  Hossein Mehnatkesh # the main title
 
-tagline: A Small Collection Of Notes # it will display as the sub-title
+tagline: Control Engineer # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: &description "Machine Learning Researcher | Automotive Control System Developer"
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://HMehnatkesh.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: HMehnatkesh # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Hossein MEhnatkesh
+  email: H.Mehnatkesh@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/HMehnatkesh # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/H-Mehnatkesh
 
 google_site_verification: # fill in to your verification string
 
