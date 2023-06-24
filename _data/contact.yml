@@ -19,7 +19,7 @@
   url: 'https://www.researchgate.net/profile/Hossein-Mehnatkesh-2'
 
 - type: google scholar
-  icon: "fa-solid fa-quotes"
+  icon: "fa-duotone fa-quotes"
   url: 'https://scholar.google.com/citations?user=__MvtecAAAAJ&hl=en'
 
 # Uncomment and complete the url below to enable more contact options
@@ -27,11 +27,6 @@
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-#
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
