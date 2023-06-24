@@ -2,17 +2,26 @@
 
 - type: github
   icon: "fab fa-github"
+  url: 'https://github.com/HMehnatkesh'
 
-- type: twitter
-  icon: "fab fa-twitter"
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: 'https://ir.linkedin.com/in/h-mehnatkesh'
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+  url: 'h.mehnatkesh@gmail.com'
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: researchgate
+  icon: "fas fa-researchgate"
+  #noblank: true
+  url: 'https://www.researchgate.net/profile/Hossein-Mehnatkesh-2'
+
+- type: google scholar
+  icon: "fab fa-graduation-cap"
+  url: 'https://scholar.google.com/citations?user=__MvtecAAAAJ&hl=en'
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
