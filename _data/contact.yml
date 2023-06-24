@@ -1,26 +1,25 @@
 #  The contact options.
-
-- type: github
-  icon: "fab fa-github"
-  url: 'https://github.com/HMehnatkesh'
-
 - type: linkedin
   icon: "fab fa-linkedin"
   url: 'https://ir.linkedin.com/in/h-mehnatkesh'
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-  url: 'h.mehnatkesh@gmail.com'
+- type: google scholar
+  icon: "fas fa-graduation-cap"
+  url: 'https://scholar.google.com/citations?user=__MvtecAAAAJ&hl=en'
 
 - type: researchgate
   icon: "fa-brands fa-researchgate"
   #noblank: true
   url: 'https://www.researchgate.net/profile/Hossein-Mehnatkesh-2'
 
-- type: google scholar
-  icon: "fas fa-quotes"
-  url: 'https://scholar.google.com/citations?user=__MvtecAAAAJ&hl=en'
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+  url: 'h.mehnatkesh@gmail.com'
+
+- type: github
+  icon: "fab fa-github"
+  url: 'https://github.com/HMehnatkesh'
 
 # Uncomment and complete the url below to enable more contact options
 #
