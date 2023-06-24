@@ -14,7 +14,7 @@
   url: 'h.mehnatkesh@gmail.com'
 
 - type: researchgate
-  icon: "fas fa-researchgate"
+  icon: "fa-brands fa-researchgate"
   #noblank: true
   url: 'https://www.researchgate.net/profile/Hossein-Mehnatkesh-2'
 
