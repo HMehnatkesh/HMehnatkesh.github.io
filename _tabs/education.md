@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-graduation-cap
-order: 4
+order: 2
 ---
 
 
