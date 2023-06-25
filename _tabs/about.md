@@ -14,4 +14,12 @@ I am well-versed in programming languages like MATLAB, Python, and LabVIEW, and 
 
 My mission is to utilize my skills and knowledge to further advance the field of automobile and machine learning by creating innovative solutions that drive progress.
 
-You can find my CV at the following [link](/assets/PDF/CV-HosseinMehnatkesh.pdf).
+You can find my CV at the following [link](/assets/PDF/CV-HosseinMehnatkesh.pdf).  
+
+My research interests include:
+- Control of Nonlinear Systems
+- Modeling of Nonlinear Systems
+- Machine Learning
+- Computer Vision
+- Fault Detection and Diagnosis
+- Combustion Engine Control Algorithms
