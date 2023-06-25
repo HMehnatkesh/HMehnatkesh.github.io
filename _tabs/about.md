@@ -20,6 +20,6 @@ My research interests include:
 - Control of Nonlinear Systems
 - Modeling of Nonlinear Systems
 - Machine Learning
-- Computer Vision
-- Fault Detection and Diagnosis
+- Computer Vision  
+- Fault Detection and Diagnosis  
 - Combustion Engine Control Algorithms
