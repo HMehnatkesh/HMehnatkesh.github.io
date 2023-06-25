@@ -7,6 +7,10 @@
   icon: "fas fa-graduation-cap"
   url: 'https://scholar.google.com/citations?user=__MvtecAAAAJ&hl=en'
 
+- type: orcid
+  icon: "fa-brands fa-orcid"
+  url: 'https://orcid.org/0000-0002-6187-9675'
+
 - type: researchgate
   icon: "fa-brands fa-researchgate"
   #noblank: true
