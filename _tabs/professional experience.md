@@ -4,6 +4,14 @@ icon: fas fa-briefcase
 order: 5
 ---
 
+## Research Assistant 
+*The Mechanical Engineering Energy Control Lab (MEECL), University of Alberta, Alberta, Canadan*  (Sep. 2023 - Present)  
+- Experimental engine platform & data infrastructure
+- Physics-aware & data-driven engine modeling
+- Real-time machine learning predictive control (NMPC + ML)
+- Cylinder-to-cylinder balancing & safety
+- Reinforcement learning & control benchmarking
+
 ## Senior Control Engineer
 *JETCO Company, Tehran, Iran*  (Jun 2021 - Jun2023)  
 - As the head of the control group, he has been involved in the control and fault detection of a four-stroke engine.

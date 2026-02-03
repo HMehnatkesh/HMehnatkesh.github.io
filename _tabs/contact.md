@@ -9,6 +9,5 @@ order: 6
 Mechanical Engineering Department  
 University of Alberta, Edmonton, AB
 
-Phone: *+98(937)759-5784* 
 
 Email: [*Mehnatke@ualberta.ca*](mailto:Mehnatke@ualberta.ca) / [*H.Mehnatkesh@gmail.com*](mailto:H.Mehnatkesh@gmail.com)
