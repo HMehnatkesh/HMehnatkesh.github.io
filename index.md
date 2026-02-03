@@ -46,12 +46,8 @@ comments: false
     </div>
 
     <div class="col-12 col-lg-4 text-center">
-      <img
-        class="landing-avatar"
-        src="/assets/images/profile.png"
-        alt="Hossein Mehnatkesh"
-        loading="lazy"
-      />
+<img src="/assets/images/profile.png" alt="Hossein Mehnatkesh">
+
     </div>
   </div>
 
