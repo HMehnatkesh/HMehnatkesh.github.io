@@ -5,24 +5,77 @@ order: 4
 ---
 
 
+## Projects
 
-## Fault diagnosis of internal combustion engines
-- Functionally studying the behavior of the engine and its faults during the hot test are our aim. Someof the faults are related to the internal section of the engine, such as the park plug gap, which is notvisible from the outside, and the other section is the external behavior of the system, such as balancedpower and sufficient comparison in each cylinder.
+This page highlights selected academic and applied projects in **control systems**, **machine learning**, and
+**energy and vehicle applications**, ranging from experimental engine diagnostics to nonlinear control design.
 
-## Detection of water in a transparent fuel cell use of a DNN
-- There is no tool to make measure water in a fuel cell and its magnitude does not exist in a system ofequations to determine the amount of water available to increase efficiency and service life.
+---
 
-## Parallel park training use of haptic torque in the driving simulator
-- A haptic assist torque is applied to a steering wheel for aiding driving trainees during parallel parking.The share of haptic assist torque is gradually reduced and the trainee’s involvement increases.
+## Fault Diagnosis of Internal Combustion Engines
 
-## Designing, building, controlling, and analyzing an inverted pendulum
-- Control of one degree of freedom reverse pendulum with the PID controller (Use of the IMU sensor), emotional control.
+This project focuses on functional analysis and fault diagnosis of internal combustion engines during hot testing.
+Both **internal faults** (e.g., spark plug gap variations that are not externally observable) and **external system-level
+faults** (e.g., cylinder power imbalance) are studied using sensor data and comparative analysis across cylinders.
 
-## Modeling, controlling, and analyzing a quadcopter with MATLAB
-- Model-based control design with the aid of MATLAB and Arduino for a quadcopter.
+**Key topics:** engine diagnostics, sensor-based fault detection, cylinder balancing
 
-## Simulation and modeling nonlinear dynamic systems
-- Simulation and modeling of nonlinear systems with the aid of analytical dynamics methods such asLagrange, Modified Lagrange, Augmented, Elimination, Embedding, and Greenwood methods in theAnalytical Dynamics course.
+---
 
-## Control of PEM fuel cell with the aid of a nonlinear and fuzzy controller
-- Sliding mode, feedback linearization, gain scheduling and PID controller have been developed for thissystem to increase the service life. Furthermore, supervisor fuzzy-PID, fuzzy sliding mode, and trial anderror fuzzy-controller have been developed too. Finally, we combined metaheuristic and heuristicoptimization with traditional methods.
+## Water Detection in a Transparent Fuel Cell Using Deep Neural Networks
+
+Accurate measurement of water coverage inside fuel cells is challenging due to the lack of direct sensing methods and
+the absence of explicit water dynamics in standard physical models. In this project, **deep neural networks** are used
+to estimate water coverage in a transparent fuel cell, enabling improved efficiency and extended service life.
+
+**Key topics:** deep learning, fuel cell diagnostics, data-driven modeling
+
+---
+
+## Parallel Parking Training Using Haptic Assist Torque in a Driving Simulator
+
+This project investigates the use of **haptic assist torque** applied to a steering wheel to support novice drivers
+during parallel parking maneuvers. The level of assistance is gradually reduced over time, encouraging increased
+driver engagement and skill acquisition.
+
+**Key topics:** haptics, driver assistance systems, human–machine interaction
+
+---
+
+## Design, Control, and Analysis of an Inverted Pendulum
+
+Design and control of a single-degree-of-freedom inverted pendulum system using **PID control**.
+An IMU sensor is used for state measurement, and controller performance is evaluated through stabilization and
+disturbance rejection experiments.
+
+**Key topics:** classical control, inverted pendulum, embedded sensing
+
+---
+
+## Modeling and Control of a Quadcopter Using MATLAB and Arduino
+
+This project involves **model-based control design** for a quadcopter platform using MATLAB for system modeling
+and controller synthesis, and Arduino for real-time implementation and testing.
+
+**Key topics:** multivariable systems, MATLAB-based control design, embedded control
+
+---
+
+## Simulation and Modeling of Nonlinear Dynamical Systems
+
+Simulation and modeling of nonlinear dynamical systems using analytical dynamics approaches, including
+Lagrange, modified Lagrange, augmented, elimination, embedding, and Greenwood methods.
+This work was carried out as part of an advanced course in analytical dynamics.
+
+**Key topics:** nonlinear dynamics, analytical modeling, simulation
+
+---
+
+## Control of PEM Fuel Cells Using Nonlinear and Fuzzy Controllers
+
+Development and comparison of multiple control strategies for PEM fuel cells, including **sliding mode control,
+feedback linearization, gain scheduling, and PID control**, with the objective of improving performance and extending
+service life. Advanced approaches such as **fuzzy PID**, **fuzzy sliding mode control**, and hybrid heuristic /
+metaheuristic optimization techniques were also explored.
+
+**Key topics:** nonlinear control, fuzzy control, fuel cell systems

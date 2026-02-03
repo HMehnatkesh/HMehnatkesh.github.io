@@ -1,0 +1,78 @@
+/* Landing page styling */
+.landing {
+  .landing-name {
+    font-size: clamp(2rem, 3.2vw, 3rem);
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+
+  .landing-title {
+    font-size: 1.1rem;
+    opacity: 0.9;
+  }
+
+  .landing-mission {
+    font-size: 1.05rem;
+    max-width: 62ch;
+  }
+
+  .landing-bullets {
+    padding-left: 1.15rem;
+    max-width: 62ch;
+
+    li {
+      margin-bottom: 0.45rem;
+    }
+  }
+
+  .landing-btn {
+    padding: 0.6rem 1rem;
+    border-radius: 0.9rem;
+  }
+
+  .landing-note {
+    font-size: 0.95rem;
+    opacity: 0.85;
+    max-width: 62ch;
+  }
+
+  .landing-avatar {
+    width: min(220px, 70%);
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 999px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+  }
+
+  .landing-card {
+    height: 100%;
+    padding: 1.1rem 1.1rem;
+    border-radius: 1.1rem;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.06);
+    background: rgba(255, 255, 255, 0.02);
+  }
+
+  .landing-card-title {
+    font-size: 1.15rem;
+    margin-bottom: 0.45rem;
+  }
+
+  .landing-card-text {
+    opacity: 0.9;
+    margin-bottom: 0.6rem;
+  }
+
+  .landing-card-link {
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  
+}
+
+

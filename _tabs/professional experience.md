@@ -4,32 +4,52 @@ icon: fas fa-briefcase
 order: 5
 ---
 
-## Research Assistant 
-*The Mechanical Engineering Energy Control Lab (MEECL), University of Alberta, Alberta, Canadan*  (Sep. 2023 - Present)  
-- Experimental engine platform & data infrastructure
-- Physics-aware & data-driven engine modeling
-- Real-time machine learning predictive control (NMPC + ML)
-- Cylinder-to-cylinder balancing & safety
-- Reinforcement learning & control benchmarking
 
-## Senior Control Engineer
-*JETCO Company, Tehran, Iran*  (Jun 2021 - Jun2023)  
-- As the head of the control group, he has been involved in the control and fault detection of a four-stroke engine.
-- They are working with various sensors connected to the engine including oxygen, pressure, temperature, camshaft position, and engine speed sensor and their faults.
-- They are controlling various actuators connected to the engine, including the throttle, coil, injector, and CVVT and their faults.
-- Designing a controller for engine speed in 50 RPM error bound.
-- Calibration of the control logic to turn on all engine variants available in IKCO.
+## Research Assistant  
+**Mechanical Engineering Energy Control Lab (MEECL)**, University of Alberta, Edmonton, Canada  
+*September 2023 – Present*
 
-## Junior Research and Development Engineer 
-*Black Gold Innovation Company, Tehran, Iran*  (July 2020 – May 2021)  
-- Conceptual design of fully mechanical mechanisms to operate in tough situations.
+- Development and operation of an experimental multi-cylinder engine platform and data acquisition infrastructure  
+- Physics-aware and data-driven modeling of hydrogen/diesel dual-fuel engines  
+- Real-time implementation of machine learning–enhanced nonlinear model predictive control (NMPC)  
+- Cylinder-to-cylinder combustion balancing under safety and stability constraints  
+- Benchmarking reinforcement learning and model-based control strategies  
 
-## Data Science Internship
-*Rahnema Collage, Tehran, Iran*  (May 2021 – Jun 2021)  
-- Anomaly detection.
-- Use of unsupervised learning for cybersecurity analysts with the aid of HTTP log files.
+---
 
+## Senior Control Engineer  
+**JETCO Company**, Tehran, Iran  
+*June 2021 – June 2023*
 
-## Research Assistant 
-*Virtual Reality Laboratory, K.N. Toosi University of Technology, Tehran, Iran*  (May 2021 – Jun 2021)  
-- Research assistant in a section of car simulation.
+- Led the engine control and diagnostics group for four-stroke internal combustion engines  
+- Designed and calibrated engine speed controllers achieving regulation within ±50 RPM  
+- Developed fault detection and diagnosis logic for engine sensors, including oxygen, pressure, temperature, camshaft position, and speed sensors  
+- Controlled and calibrated engine actuators, including throttle, ignition coil, fuel injector, and CVVT systems  
+- Calibrated control strategies across multiple engine variants for production deployment at IKCO  
+
+---
+
+## Junior Research and Development Engineer  
+**Black Gold Innovation Company**, Tehran, Iran  
+*July 2020 – May 2021*
+
+- Conceptual and preliminary design of fully mechanical mechanisms for operation under harsh and constrained environments  
+- Supported prototype development and feasibility evaluation  
+
+---
+
+## Data Science Intern  
+**Rahnema College**, Tehran, Iran  
+*May 2021 – June 2021*
+
+- Developed anomaly detection pipelines using unsupervised machine learning methods  
+- Analyzed large-scale HTTP log data to support cybersecurity monitoring and incident detection  
+
+---
+
+## Research Assistant  
+**Virtual Reality Laboratory**, K.N. Toosi University of Technology, Tehran, Iran  
+*May 2021 – June 2021*
+
+- Contributed to research on vehicle simulation and driver interaction within virtual reality environments  
+- Assisted in experimental setup and data analysis for driving simulation studies  

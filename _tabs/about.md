@@ -4,19 +4,40 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-# About me,
-I am Hossein, a control engineer with over 2 years of experience managing projects across the control, automotive, and diagnostics industries. I have strong analytical skills and a deep understanding of mechanical and electrical systems, enabling me to solve unique and complex design and implementation challenges. My research interests are control theories, artificial intelligence, and applied machine learning.   
-As a control engineer with an M.Sc. in Engineering, I specialize in developing, implementing, and deploying control and machine learning solutions for manufacturing processes and fault detection. I am currently a PhD candidate at the University of Alberta, where I will apply machine learning control to hydrogen/diesel dual-fuel engines.   
-I am well-versed in programming languages such as MATLAB, Python, and LabVIEW, and I have hands-on experience with tools and frameworks, including acados, PyTorch, TensorFlow, Keras, and OpenCV.  
-My goal is to leverage my expertise to advance the automotive industry and machine learning by developing innovative solutions that drive progress.
+## Hi, I'm Hossein
 
-You can find my CV at the following [link](/assets/PDF/CV-HosseinMehnatkesh.pdf).  
+I’m a PhD researcher at the University of Alberta working on **machine learning–based modeling and control for hydrogen-assisted engines and energy systems**. My work bridges **control theory (MPC/NMPC)** and **data-driven modeling (deep learning, system identification)** with a strong focus on **real-time deployment, safety constraints, and experimental validation**.
 
-My research interests include:
-- Control of Nonlinear Systems
-- Modeling of Nonlinear Systems
-- Combustion Engine Control Algorithms
-- Machine Learning
-- Fault Detection and Diagnosis  
-- Computer Vision  
+My goal is to develop reliable control strategies that enable **higher hydrogen utilization**, **lower emissions**, and **stable combustion** under practical operating limits.
+
+---
+
+## Research focus
+
+My research centers on learning-enabled control for complex nonlinear systems, especially combustion and energy applications:
+
+- **Machine learning–enhanced NMPC** (learning models for prediction + constraint-aware control)
+- **Real-time, cycle-to-cycle optimization** for multi-cylinder combustion stability and homogeneity
+- **Data-driven & physics-informed modeling** (e.g., LSTM-based predictors and hybrid models)
+- **Safety- and emissions-aware control** (stability constraints, abnormal combustion prevention)
+- **Experimental validation** on engine test platforms
+
+---
+
+## Collaboration
+
+I’m interested in collaborating on projects related to:
+
+- Learning-based MPC / safe RL for real systems  
+- Control-oriented ML modeling (hybrid / physics-informed)  
+- Energy, engines, and complex nonlinear dynamical systems  
+
+If you'd like to connect, please use the **Contact** page.
+
+---
+
+## CV
+
+You can download my CV here: **[Download CV](/assets/PDF/CV-HosseinMehnatkesh.pdf)**
+
 
